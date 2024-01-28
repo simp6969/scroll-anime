@@ -7,4 +7,9 @@
 }
 body {
   overflow-x: hidden;
+  background: #2c2c2c;
+  color: white;
+}
+.photo {
+  transition: all 1s;
 }
